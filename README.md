@@ -1,5 +1,5 @@
 # Galaxyn
-Game galaxyne dibuad dalam bentuk 2D, game ini terinspirasi dari game tradisional gobak sodor alias galah asin. Pembuatan game ini dibuat menggunakan platform Unity dan asset yang digunakan dibuat oleh 2D mega pack dari unity store. Game ini terdiri dari 6 leve dengan tingkat kesulitan yang berbeda-beda
+Game galaxyne dibuat dalam bentuk 2D, game ini terinspirasi dari game tradisional gobak sodor alias galah asin. Pembuatan game ini dibuat menggunakan platform Unity dan asset yang digunakan dibuat oleh 2D mega pack dari unity store. Game ini terdiri dari 6 level dengan tingkat kesulitan yang berbeda-beda
 
 ## Anggota Kelompok 
 1. Shibgotalloh Sabilana  (G64180002)
